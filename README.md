@@ -2,6 +2,8 @@
 
 [Teuken-7B-instruct-commercial-v0.4](https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4) is an instruction-tuned 7B parameter multilingual large language model (LLM) pre-trained with 4T tokens in all official 24 European languages and released under Apache 2.0 in the research project [OpenGPT-X](https://opengpt-x.de/en/). 
 
+![](open-gpt-x.svg)
+
 To learn more about Teuken-7B-instruct-commercial-v0.4, visit [Hugging Face](https://huggingface.co/openGPT-X/Teuken-7B-instruct-commercial-v0.4).
 
 ## Primary use cases
